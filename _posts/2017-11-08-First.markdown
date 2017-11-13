@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "First Post"
+date:   2017-11-08 16:54:17 +0000
+categories: post update new
+---
+
+Canson® Barbizon is cotton-free paper made on a fourdrinier paper machine, and boasts a thick and resistant surface.
+Double-sided, it features one silky side (practically smooth), while the other side is slightly textured.
+This high-quality paper is perfectly suited for every major Print Making technique.
+Ideal for students.
