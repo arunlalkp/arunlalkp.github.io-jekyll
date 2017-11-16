@@ -11,4 +11,4 @@ This high-quality paper is perfectly suited for every major Print Making techniq
 Ideal for students.
 
 ## Projects
-1. [Test Repo](arunlalkp.github.io/testrepo)
+1. [Test Repo](https://arunlalkp.github.io/testrepo/)
