@@ -10,5 +10,5 @@ Double-sided, it features one silky side (practically smooth), while the other s
 This high-quality paper is perfectly suited for every major Print Making technique.
 Ideal for students.
 
-## Projects
+### Projects
 1. [Test Repo](https://arunlalkp.github.io/testrepo/)
